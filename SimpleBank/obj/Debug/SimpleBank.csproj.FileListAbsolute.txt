@@ -1,0 +1,7 @@
+F:\Bank\SimpleBank\SimpleBank\bin\Debug\SimpleBank.exe.config
+F:\Bank\SimpleBank\SimpleBank\bin\Debug\SimpleBank.exe
+F:\Bank\SimpleBank\SimpleBank\bin\Debug\SimpleBank.pdb
+F:\Bank\SimpleBank\SimpleBank\obj\Debug\SimpleBank.csproj.AssemblyReference.cache
+F:\Bank\SimpleBank\SimpleBank\obj\Debug\SimpleBank.csproj.CoreCompileInputs.cache
+F:\Bank\SimpleBank\SimpleBank\obj\Debug\SimpleBank.exe
+F:\Bank\SimpleBank\SimpleBank\obj\Debug\SimpleBank.pdb
